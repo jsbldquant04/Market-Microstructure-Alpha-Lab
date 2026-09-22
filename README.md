@@ -16,7 +16,7 @@ OFI_t =
 {V_{buy,t}+V_{sell,t}}
 $$
 
-where \(V_{buy}\) and \(V_{sell}\) represent aggressively executed buy and sell volume.
+where $\(V_{buy}\)$ and $\(V_{sell}\)$ represent aggressively executed buy and sell volume.
 
 ## Research Workflow
 
